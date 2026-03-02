@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **enabled our best practice methodology to scale effectively**
 
-- 👨‍💻 All of my projects are available at [marciobolsoni.tech](www.marciobolsoni.tech)
+- 👨‍💻 All of my projects are available at [marciobolsoni.tech](www.marciobolsoni.cloud)
 
-- 📝 I regularly write articles on [marciobolsoni.tech](www.marciobolsoni.tech)
+- 📝 I regularly write articles on [marciobolsoni.tech](www.marciobolsoni.cloud)
 
 - 💬 Ask me about **AWS Services**
 
